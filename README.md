@@ -72,7 +72,7 @@
   <a href="https://github.com/rohandhadke" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/rohan-dhadke-774a3721a/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
   <a href="http://www.instagram.com/mr.rohan_dhadke01/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></a>
-  <a href="https://twitter.com/rohandhadke01" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"></a>
+  <a href="[https://twitter.com/rohandhadke01](https://x.com/rohandhadke?t=dFgvopnsoTrySc0__QNlzA&s=09)" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"></a>
 </p>
 
 ---
