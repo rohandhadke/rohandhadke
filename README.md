@@ -1,37 +1,106 @@
-Hi 👋 My name is Rohan Dhadke
-=============================
+<h1 align="center">Hi 👋, I'm Rohan Dhadke</h1>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [rohandhadke7620@gmail.com](mailto:rohandhadke7620@gmail.com)
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<p align="center">
+  🌍 I'm based in <strong>India</strong> <br>
+  📫 Reach me at: <a href="mailto:rohandhadke7620@gmail.com">rohandhadke7620@gmail.com</a> <br>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/rohandhadke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mr.rohan_dhadke01/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rohan-dhadke-774a3721a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+## 🚀 About Me
 
-<b>My GitHub Stats</b>
+🎓 I'm a passionate and curious tech enthusiast who loves to explore modern technologies and build meaningful projects.  
+🧠 Currently learning and building projects in AI, Machine Learning, and Full Stack Development.  
+💡 I believe in continuous learning and collaborative growth.  
 
-<a href="http://www.github.com/rohandhadke"><img src="https://github-readme-stats.vercel.app/api?username=rohandhadke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rohandhadke's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/rohandhadke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohandhadke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🛠️ Skills & Technologies
 
-<a href="http://www.github.com/rohandhadke"><img src="https://activity-graph.herokuapp.com/graph?username=rohandhadke&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 💻 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="36" alt="C" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="36" alt="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" height="36" alt="C#" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="36" alt="PHP" />
+</p>
 
-<a href="https://github.com/rohandhadke" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandhadke&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🌐 Web Technologies
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="36" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" height="36" alt=".NET" />
+</p>
+
+### 🔧 Frameworks & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="Django" />
+</p>
+
+### 🧠 AI & Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-black?style=flat&logo=openai&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white" />
+</p>
+
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" />
+</p>
+
+---
+
+## 📱 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/rohandhadke" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rohan-dhadke-774a3721a/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
+  <a href="http://www.instagram.com/mr.rohan_dhadke01/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></a>
+  <a href="https://twitter.com/rohandhadke01" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/rohandhadke">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohandhadke&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/rohandhadke">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohandhadke&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/rohandhadke">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandhadke&layout=compact&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohandhadke&theme=github-compact&hide_border=true" />
+</p>
