@@ -1,90 +1,123 @@
-# Hi 👋 I'm Rohan Dhadke
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 Passionate Developer | Final Year Computer Engineering Student  
-📍 Based in **India**  
-📫 Reach me at: [rohandhadke7620@gmail.com](mailto:rohandhadke7620@gmail.com)
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
 
-## 💻 Tech Stack
+###
 
-### 🔧 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rohandhadke.rohandhadke&"  />
+</div>
 
-### 🧠 AI & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=flask" width="36" height="36" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=ai" width="36" height="36" alt="Generative AI" />
-</p>
+###
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
-</p>
+<h1 align="center">hey there 👋</h1>
 
-### 🛢️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=sql" width="36" height="36" alt="SQL" />
-</p>
+###
 
-### ☁️ Cloud & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=gcp" width="36" height="36" alt="GCP" />
-  <img src="https://skillicons.dev/icons?i=render" width="36" height="36" alt="Render" />
-</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-### 🔧 Tools & Other Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" width="36" height="36" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="36" height="36" alt=".NET" />
-</p>
+###
 
----
+<p align="left">I'm Rohan from Nanded, Maharashtra!<br><br>- 🔭 I’m working as Python Full Stack Developer<br>- 📚 Final Year Student at DYPCOEI, Pune<br>- 👨🏻‍💻 Intern at LSOYS Games and Apps <br>- ⚡ Available for Freelancing work</p>
 
-## 📱 Connect with me
+###
 
-<p align="left">
-  <a href="https://www.github.com/rohandhadke" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/rohan-dhadke-774a3721a/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/mr.rohan_dhadke01/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="[https://twitter.com/mr_rohan_d](https://x.com/rohandhadke?t=dFgvopnsoTrySc0__QNlzA&s=09)" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
----
+###
 
-## 📊 GitHub Stats
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
 
-<a href="http://www.github.com/rohandhadke"><img src="https://github-readme-stats.vercel.app/api?username=rohandhadke&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats" /></a>
+###
 
-<a href="http://www.github.com/rohandhadke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohandhadke&hide_border=true&background=1c1917&stroke=ffffff&ring=00FFFF&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
+<h3 align="left">🔥   My Stats :</h3>
 
-<a href="http://www.github.com/rohandhadke"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohandhadke&bg_color=1c1917&color=ffffff&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a>
+###
 
-<a href="https://github.com/rohandhadke" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandhadke&langs_count=10&layout=compact&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohandhadke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandhadke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rohandhadke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
----
-
-💡 _“The best way to predict the future is to create it.”_  
-Let's build the future — together!
-
+###
