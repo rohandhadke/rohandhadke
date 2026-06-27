@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Rohan from Nanded, Maharashtra! <br> Portfolio: <a href="https://portfolio-rohan-iota.vercel.app/" target="blank">rohandhadke</a> <br><br>- 🔭 I’m working as Python Full Stack Developer<br>- 📚 Final Year Student at DYPCOEI, Pune<br>- 👨🏻‍💻 Intern at LSOYS Games and Apps <br>- ⚡ Available for Freelancing work</p>
+<p align="left">I'm Rohan from Nanded, Maharashtra! <br> Portfolio: <a href="https://portfolio-rohan-iota.vercel.app/" target="blank">rohandhadke</a> <br><br>- 🔭 I’m working as a Full Stack Developer <br> 👨🏻‍💻 Working at TechGeekConnect Technologies <br>- ⚡ Available for Freelancing work</p>
 
 ###
 
